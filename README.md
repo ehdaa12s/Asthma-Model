@@ -6,7 +6,7 @@ completed a project focused on developing a machine learning model to predict as
 Leveraged the power of Decision Trees and Random Forest for robust classification.
 Applied Logistic Regression for understanding the underlying probabilities.
 Incorporated Naive Bayes for handling large datasets with high dimensionality.
-🙌 A huge thank you to the incredible team that made this possible:
+🙌 A huge thank you to the incredible team that made this help me to make website for my model :
 
 Eng. Ebrahim Qassem 
 Eng. Anas Hossam 
